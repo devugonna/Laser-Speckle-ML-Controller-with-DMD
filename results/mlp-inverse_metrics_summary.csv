@@ -1,0 +1,14 @@
+Metric,Value
+MSE,0.044857
+BinaryAccuracy,0.9340
+SSIM_mean,0.7947
+SSIM_std,0.3126
+SSIM_p5,0.1126
+SSIM_p50,0.9550
+SSIM_p95,1.0000
+PSNR_mean_dB,Inf
+PSNR_std_dB,NaN
+SpeckleK_mean,1.9050
+SpeckleK_std,2.9125
+InferenceTotal_s,0.4713
+InferencePerSample_ms,0.4713
