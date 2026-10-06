@@ -19,7 +19,7 @@ A laser is modulated by a Digital Micromirror Device (DMD), scattered by a diffu
 
 Evaluated on 1,000 unseen test samples (an all-off baseline scores 57.75% accuracy).
 
-![Side-by-side comparison](results/figures/compare_side_by_side.png)
+![Side-by-side comparison](results/compare_side_by_side.png)
 
 ## Requirements
 
